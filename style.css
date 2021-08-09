@@ -1,0 +1,61 @@
+body {
+    text-align: center;
+}
+
+#ContactUs {
+    background-color: papayawhip;
+}
+
+img {
+    text-align: center;
+    height: 500px;
+    width: 500px;
+}
+
+.H8 {
+    font-size: 25px;
+}
+
+.H9 {
+    font-size: 18px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+
+}
+
+.img responsive {
+    height: 1000px;
+    width: 500px;
+}
+
+.img-responsive col-lg-5 col-md-5 col-sm-5 col-xs-12 {
+    height: 600px;
+    width: 600px;
+}
+
+#img1 {
+    height: 300px;
+    width: 500px;
+}
+
+#img2 {
+    height: 300px;
+    width: 500px;
+}
+
+#img3 {
+    height: 300px;
+    width: 500px;
+}
+
+#img4 {
+    height: 300px;
+    width: 500px;
+}
